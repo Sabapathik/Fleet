@@ -1,0 +1,169 @@
+Testers are needed to ensure that software and systems work correctly and meet user expectations. They identify bugs, errors, and issues before the software is released, which helps to avoid problems that could affect users, damage a company's reputation, and increase costs if found later. Testers help improve the quality, reliability, and performance of software, ensuring a better user experience and successful project outcomes.
+
+-------------------------------------------------------------------------------------------
+
+Requirements Traceability Matrix (RTM) is a document used in the software development lifecycle to ensure that all requirements defined for a system are tested thoroughly. There are several types of RTMs, each serving a different purpose in tracing and managing requirements. Here are the main types:
+
+1. Forward Traceability Matrix
+Purpose: Ensures that each requirement is traced forward through the various stages of development and testing.
+Details:
+
+Links requirements to design specifications, test cases, and implementation.
+Helps in verifying that each requirement is addressed in the product.
+Useful for identifying missing requirements or features not traced to any requirement.
+2. Backward Traceability Matrix
+Purpose: Ensures that each deliverable (e.g., test cases, code modules) can be traced back to original requirements.
+Details:
+
+Links test cases and design elements back to requirements.
+Validates that all implemented features can be justified by original requirements.
+Helps in identifying unnecessary features or functionalities not linked to any requirement.
+3. Bidirectional Traceability Matrix
+Purpose: Combines both forward and backward traceability.
+Details:
+
+Ensures comprehensive coverage by linking requirements to design, implementation, and test cases, and vice versa.
+Facilitates impact analysis by understanding the ripple effects of changes in requirements.
+Enhances project management by providing a complete picture of requirement coverage and implementation status.
+4. Horizontal Traceability Matrix
+Purpose: Tracks requirements across different modules or components of the system.
+Details:
+
+Ensures that interdependencies and relationships between various modules/components are maintained.
+Helps in managing cross-functional requirements and ensuring consistency across the system.
+5. Vertical Traceability Matrix
+Purpose: Tracks requirements through the hierarchical levels of the development process.
+Details:
+
+Links high-level requirements to detailed sub-requirements and design elements.
+Ensures that detailed requirements and designs are consistent with high-level business needs.
+Useful for maintaining alignment between strategic objectives and implementation details.
+Components of an RTM
+Requirement ID: A unique identifier for each requirement.
+Requirement Description: A brief description of the requirement.
+Test Case ID: Identifiers for test cases linked to each requirement.
+Design Specification: References to design documents or specifications that address the requirement.
+Implementation Reference: Links to code modules or components implementing the requirement.
+Status: Indicates the current status of the requirement (e.g., implemented, tested, pending).
+Benefits of Using RTM
+Ensures Coverage: Helps in verifying that all requirements are addressed throughout the development process.
+Facilitates Change Management: Aids in assessing the impact of changes in requirements on design, implementation, and testing.
+Improves Quality: Enhances the quality of the final product by ensuring thorough testing of all requirements.
+Supports Compliance: Helps in meeting regulatory and compliance requirements by providing traceability documentation.
+Aids Communication: Improves communication among stakeholders by providing a clear and detailed mapping of requirements to deliverables.
+Implementation of RTM
+Define Requirements: Clearly define and document all requirements.
+Map Requirements to Deliverables: Create links between requirements and corresponding test cases, design elements, and implementation.
+Maintain RTM: Regularly update the RTM to reflect changes in requirements, design, and implementation.
+Review and Validate: Periodically review the RTM with stakeholders to ensure accuracy and completeness.
+An effective RTM is an essential tool in project management, ensuring that all requirements are accounted for and properly tested, leading to a higher quality product and successful project outcomes.
+----------------------------------------------------------------------------------------
+
+Manual Testing Important Questions:
+---------------------------
+
+• 7 principles of software testing?
+• Draw and explain SDLC?
+• Draw and explain STLC?
+• What is the difference between severity and priority?
+• What you mean by test plan, test scenario, test case?
+• What you mean by RTM?
+• Draw and explain defect life cycle?
+• What is difference between functional and non-functional testing?
+• What you mean by usability testing?
+• What is mean by accessibility testing?
+• What are the different automation tools we have in market?
+• What is defect management tool used in your project?
+• Draw and explain water fall model?
+• Difference between regression and re testing?
+• Difference between black box and white box testing?
+• Explain equivalence case partitioning techniques with an example?
+• Explain Decision table with an example?
+• Explain state transition technique with an example?
+• Explain boundary value analysis with an example?
+• Explain error guessing?
+• Difference between formal and informal testing?
+• Explain Ad-hoc testing?
+• What is positive and negative testing?
+• What is test strategy?
+• What is test suite?
+• What is test environment?
+• What is test data?
+• What is test closure (or) sign off?
+• What is unit testing?
+• What is integration testing?
+• What is system testing?
+• What is beta testing?
+• What is smoke testing?
+• What is sanity testing?
+• What is monkey testing?
+• What is security testing?
+• What is performance testing?
+• What is walk- through?
+• What is bug leakage?
+• What is bug release?
+• What is Defect Age?
+• Give an example all the four categories of priority and severity?
+
+
+
+• What is the last userstory/functionality you worked on your project?
+• Write 5 defects which you raised in your project?
+
+
+
+• What is the current sprint you are working?
+• What is the total number of sprints so far in your project?
+
+• How many test cases manually we can prepare in a day?
+• How many test cases manually we can execute in a day?
+• How many automation test scripts we can prepare in a day?
+• How many automation test scripts we can execute in a day?
+----------------------------------------------------------------------------------------
+What is Implicitly wait 
+Why use implicitly wait 
+What is set
+How to handle the alert 
+What is alert 
+What is automation testing 
+Explicitly wait 
+testng Annotation 
+Oops
+Explain internship project 
+Explain stlc
+Explain agile meeting 
+Integration testing 
+Different manual testing and automation testing 
+What is bug leakage 
+What is bug treage
+What is rtm why use rtm
+----------------------------------------------------------------------------------------
+What is manual testing 
+Different between verification and validation 
+What is sanity
+Smoke testing 
+Regression testing 
+What is bug life cycle 
+Explain stlc 
+What is sdlc
+What is test plan 
+Explain agile meetings 
+How to log defect in jira 
+What is agile 
+When to start and stop testing 
+Test scenario and test case
+Level of testing 
+Type of testing 
+White box and black box testing 
+Explain Ecp and bva
+What is test design technic 
+What is positive testing and negative testing 
+What is peratity and severity 
+What is user accstance testing
+What is rtm 
+Why testing is important 
+Test coverage 
+What is bug leakage 
+Different between bug,defect ,error 
+What is testing
+----------------------------------------------------------------------------------------
